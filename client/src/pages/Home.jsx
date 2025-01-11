@@ -105,7 +105,6 @@ function Home() {
         </div>
       </div>
       <Magazine />
-      <Footer />
     </div>
   );
 }
